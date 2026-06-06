@@ -1,6 +1,6 @@
 # 🐺 Play LG
 
-> 🚀 **[Lien pour jouer (Bientôt disponible)](#)**
+> 🚀 **[Lien pour jouer](https://beta.playlg.eu/)**
 
 Bienvenue sur le dépôt de **Play LG** ! Un projet **indépendant, gratuit et participatif** pour jouer en ligne au célèbre jeu des Loups-Garous.
 
